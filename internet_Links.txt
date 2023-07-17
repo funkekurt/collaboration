@@ -1,0 +1,44 @@
+Complete Google Colab
+https://www.youtube.com/playlist?list=PLA83b1JHN4ly56Y7o6vDAT8Szxc3_EdRH
+
+Colab and git
+https://youtu.be/30aXIG1MJyE
+
+Complet Colab Tutoral
+https://youtu.be/agj3AxNPDWU
+
+Meine Colab Notebook zu diesem Tutorial (Colab-Anleitung)
+https://colab.research.google.com/drive/1bjbcJmF8VVJx00u-Ezuk9tzVOVU07m1L#scrollTo=BRWradFKsXV-
+
+Kopie des Notebooks bei github
+https://github.com/funkekurt/funkekurt.github.io/blob/master/Colab_Anleitung.ipynb
+
+Google-Docs Meine Colab-Anleitung 
+https://docs.google.com/document/d/1yuQVtMrAljJownsPI6ml8I32QCgdbG5PPUjfqP_9LCc/edit
+
+Colab
+Willkommen bei Colaboratory - Colaboratory
+
+Entwickeln ohne Installation
+https://youtu.be/kS2wFMjfwkk
+
+Google Colab: Alles was Sie wissen müssen
+https://geekflare.com/de/google-colab/
+
+Complet Colab Tutoral
+https://youtube.com/playlist?list=PLA83b1JHN4ly56Y7o6vDAT8Szxc3_EdRH
+
+ChatGPT in Colab
+https://geekflare.com/de/how-to-use-chatgpt-with-google-colab/
+
+How to use google colab 
+https://datasciencity.com/2019/12/31/how-to-use-google-colab/
+
+Basics of Google Colab
+https://youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj
+
+Google Colab:Alles was Sie  wissen müssen 
+https://geekflare.com/de/google-colab/
+
+Kaagle Datasets
+https://www.kaggle.com/learn/python
