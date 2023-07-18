@@ -29,8 +29,6 @@ Zwischenablage (:marks)			 700G
 Speichern/Beenden						 703G
 Autocmd											 758G	
 
-
-
 :36,42 w >> tmp.txt     // Hängt die Zeilen 36-42 an die Datei tmp.txt an
 =strftime("%Y-%m-%d %H:%M %Z")
 
